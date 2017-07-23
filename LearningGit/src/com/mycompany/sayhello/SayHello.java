@@ -3,7 +3,7 @@ package com.mycompany.sayhello;
 public class SayHello {
 
 	public static void main(String[] args) {
-		String [] friends = {"John", "Carlos", "Janet", "Atif, br05_b"};
+		String [] friends = {"John", "Carlos", "Janet", "Atif, br05_b", "br05c"};
 		
 		// say hi to my friends
 		for (String friend : friends) {
