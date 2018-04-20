@@ -8,6 +8,7 @@ public class SayHello {
 		// say hi to my friends
 		for (String friend : friends) {
 			System.out.println("Hi " +  friend + "!");
+			System.out.println("Hi again " +  friend + "!");
 			System.out.println("Bye " +  friend + "!");
 		}
 
